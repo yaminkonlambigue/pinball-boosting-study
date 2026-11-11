@@ -1,0 +1,3 @@
+[submodule "external/pinball_boosting"]
+	path = external/pinball_boosting
+	url = https://github.com/stefanlinner/pinball_boosting.git
